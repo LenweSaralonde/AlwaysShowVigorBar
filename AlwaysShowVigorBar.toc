@@ -1,0 +1,8 @@
+## Interface: 100105
+## Title: AlwaysShowVigorBar
+## Author: LenweSaralonde
+## Version: 1.0.0
+## IconTexture: Interface\Icons\ability_dragonriding_vigor01.blp
+## Notes: Keep the dragonriding vigor bar on screen when the UI is hidden
+
+AlwaysShowVigorBar.lua
